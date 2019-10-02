@@ -1,1 +1,1 @@
-## This area is reserved for students in the noon section of Stats 140SL
+## This area is reserved for students enrolled in the 4pm section of Stats 140SL
