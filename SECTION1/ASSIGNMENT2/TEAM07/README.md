@@ -6,5 +6,8 @@ Put your name in the Team Section and comment
 
 ## Team
 
+- Bruce Tsai
 
 ## Comments
+
+- I like ice cream
