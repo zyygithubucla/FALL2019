@@ -7,9 +7,12 @@ Put your name in the Team Section and comment
 ## Team
 Hanna Grossman
 
+Elma Garcia
+
 Ki Hyun Park
 
 Eddie Liu
+
 
 ## Comments
 Ki Hyun Park
