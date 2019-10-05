@@ -8,4 +8,15 @@ Put your name in the Team Section and comment
 
 xuelian zhang
 ## Comments
-Ilike sushi
+- I like sushi
+=======
+- Bruce Tsai
+
+## Comments
+
+- I like ice cream 
+=======
+Grant Baum
+
+## Comments
+This is Grant's comment
