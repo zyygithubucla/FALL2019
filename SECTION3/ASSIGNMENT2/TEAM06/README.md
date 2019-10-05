@@ -7,4 +7,11 @@ Put your name in the Team Section and comment
 ## Team
 Hanna Grossman
 
+Ki Hyun Park
+
+Eddie Liu
+
 ## Comments
+Ki Hyun Park
+
+Hi this is Eddie :) 
