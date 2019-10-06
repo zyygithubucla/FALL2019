@@ -18,3 +18,5 @@ Eddie Liu
 Ki Hyun Park
 
 Hi this is Eddie :) 
+
+Nice, your team finished first overall!
