@@ -6,6 +6,8 @@ Put your name in the Team Section and comment
 
 ## Team
 Seulchan Kim
+Garrett Ariana
 
 ## Comments
 Seulchan Kim
+Garrett Ariana
