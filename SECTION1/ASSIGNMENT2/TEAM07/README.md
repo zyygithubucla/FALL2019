@@ -7,13 +7,11 @@ Put your name in the Team Section and comment
 ## Team
 
 xuelian zhang
+Bruce Tsai
+
 ## Comments
 - I like sushi
-=======
 - Bruce Tsai
-
-## Comments
-
 - I like ice cream 
 =======
 Grant Baum
