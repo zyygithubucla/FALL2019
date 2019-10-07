@@ -6,6 +6,7 @@ Put your name in the Team Section and comment
 
 ## Team
 Seulchan Kim
-
+Prateek Mahajan
 ## Comments
 Seulchan Kim
+Prateek Mahajan
