@@ -9,7 +9,7 @@ This awesome team includes:
 - Tiffany Trinh
 - Britney Brown
 - Junpeng Jiang
-- Huiyu Chuang
+- Hui Yu Chuang
 
 ## Comments
 =======
