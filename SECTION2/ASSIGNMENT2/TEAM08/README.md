@@ -6,6 +6,10 @@ Put your name in the Team Section and comment
 
 ## Team
 Seulchan Kim
+Prateek Mahajan
+Garrett Ariana
 
 ## Comments
 Seulchan Kim
+Garrett Ariana
+Prateek Mahajan
