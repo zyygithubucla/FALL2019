@@ -6,7 +6,7 @@ Put your name in the Team Section and comment
 
 ## Team
 
-Shatakshi Mohan
+Shatakshi Mohan  
 Miao Xu
 
 ## Comments
