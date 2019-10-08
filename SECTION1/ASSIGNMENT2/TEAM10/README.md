@@ -8,7 +8,8 @@ Put your name in the Team Section and comment
 This awesome team includes:
 Tiffany Trinh
 Britney Brown
-Junpeng Test
+Junpeng Jiang
+Huiyu Chuang
 
 ## Comments
 =======
