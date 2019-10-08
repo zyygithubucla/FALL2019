@@ -6,5 +6,7 @@ Put your name in the Team Section and comment
 
 ## Team
 HELLO this is Catherine Wu
+Yuqiao Wang
 
 ## Comments
+I like Github -- Yuqiao Wang
