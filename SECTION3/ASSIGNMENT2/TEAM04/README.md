@@ -15,7 +15,4 @@ Yuqing Yang
 HELLO this is Catherine Wu
 Hello this is Yuqing Yang
 This is Tyler Chiu
-
-HELLO this is Catherine Wu
-
 I like Github -- Yuqiao Wang
