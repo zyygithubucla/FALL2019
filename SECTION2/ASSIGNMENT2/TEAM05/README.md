@@ -6,6 +6,8 @@ Put your name in the Team Section and comment
 
 ## Team
 Samuel Aycock
+- Tiffany Hsu
 
 ## Comments
 This is Sam's comment. Hello Team 5!
+- Tiffany's comment lol
