@@ -12,8 +12,6 @@ Tyler Chiu
 ## Comments
 HELLO this is Catherine Wu
 Hello this is Yuqing Yang
-
-HELLO this is Catherine Wu
-
+This is Tyler Chiu
 I like Github -- Yuqiao Wang
 Ya like jazz

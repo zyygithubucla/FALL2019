@@ -6,15 +6,13 @@ Put your name in the Team Section and comment
 
 ## Team
 
-Shatakshi Mohan
-
-## Comments
-Hi!
-=======
-
+Shatakshi Mohan  
 Miao Xu
 
-
 ## Comments
-Hi It's Wendy
+Hi!  
+Hi It's Wendy  
+Hello  
+
+
 
