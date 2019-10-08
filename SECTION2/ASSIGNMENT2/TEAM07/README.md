@@ -6,6 +6,9 @@ Put your name in the Team Section and comment
 
 ## Team
 Giang Nguyen
-
+Ruby Zhang
+Ben Song
 ## Comments
 Giang is here
+Hey this is Ruby Zhang
+Ben is here!
