@@ -10,9 +10,9 @@ Shatakshi Mohan
 Miao Xu
 
 ## Comments
-Hi!
-Hi It's Wendy
-Hello
+Hi!  
+Hi It's Wendy  
+Hello  
 
 
 
