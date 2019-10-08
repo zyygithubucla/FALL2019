@@ -14,3 +14,7 @@ This awesome team includes:
 ## Comments
 =======
 This is team 10.
+
+Fruit is great!
+![FRUIT](https://images.app.goo.gl/qiiKaUi1jGMWnbVW8)
+
