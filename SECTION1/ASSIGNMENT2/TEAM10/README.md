@@ -6,10 +6,10 @@ Put your name in the Team Section and comment
 
 ## Team
 This awesome team includes:
-Tiffany Trinh
-Britney Brown
-Junpeng Jiang
-Huiyu Chuang
+- Tiffany Trinh
+- Britney Brown
+- Junpeng Jiang
+- Huiyu Chuang
 
 ## Comments
 =======
