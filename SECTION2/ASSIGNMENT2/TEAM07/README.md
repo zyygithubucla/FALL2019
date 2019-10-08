@@ -6,6 +6,7 @@ Put your name in the Team Section and comment
 
 ## Team
 Ruby Zhang
-
+Ben Song
 ## Comments
 Hey this is Ruby Zhang
+Ben is here!

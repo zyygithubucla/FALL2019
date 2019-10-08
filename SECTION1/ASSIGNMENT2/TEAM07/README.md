@@ -6,7 +6,7 @@ Put your name in the Team Section and comment
 
 ## Team
 
-- Xuelian Zhang
+- Xuelian Zhang.
 - Bruce Tsai
 - Grant Baum
 
