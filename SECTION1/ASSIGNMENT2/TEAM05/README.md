@@ -8,10 +8,12 @@ Put your name in the Team Section and comment
 
 
 -Shami Shaji
+
 -Kayla Schroeder
 
 ## Comments
 
 -I like sushi
+
 -Not really sure what to say, but here's my comment!
 
