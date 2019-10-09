@@ -8,6 +8,8 @@ Put your name in the Team Section and comment
 
 Patricia Njo
 
+Yingyi Zhu
+
 ## Comments
 
 Requesting to be a member of STATS140SL
