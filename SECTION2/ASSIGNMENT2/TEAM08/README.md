@@ -8,8 +8,10 @@ Put your name in the Team Section and comment
 Seulchan Kim
 Prateek Mahajan
 Garrett Ariana
+Yunseub Kim
 
 ## Comments
 Seulchan Kim
 Garrett Ariana
 Prateek Mahajan
+Yunseub Kim
