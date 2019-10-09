@@ -6,6 +6,7 @@ Put your name in the Team Section and comment
 
 ## Team
 Kevin Chen
+Xinyi Wang
 
 William Zhu
 
