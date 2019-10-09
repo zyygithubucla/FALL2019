@@ -12,8 +12,12 @@ This awesome team includes:
 - Hui Yu Chuang
 
 ## Comments
+
 =======
-This is team 10.
+
+This is team 10. 
+
+All team members are very supportive! Hope we can become teammates again! :)
 
 Fruit is great! Stay healthy!!
 
