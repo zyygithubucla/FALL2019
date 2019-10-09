@@ -15,7 +15,7 @@ This awesome team includes:
 =======
 This is team 10.
 
-Fruit is great!
+Fruit is great! Stay healthy!!
 
 ![FRUIT](https://www.irishtimes.com/polopoly_fs/1.3923226.1560339148!/image/image.jpg_gen/derivatives/box_620_330/image.jpg)
 
