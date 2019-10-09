@@ -7,16 +7,11 @@ Put your name in the Team Section and comment
 ## Team
 
 
-Shami Shaji
+-Shami Shaji
+-Kayla Schroeder
 
 ## Comments
 
-I like sushi
-=======
-- Kayla Schroeder
-
-
-## Comments
-
-- Not really sure what to say, but here's my comment!
+-I like sushi
+-Not really sure what to say, but here's my comment!
 
