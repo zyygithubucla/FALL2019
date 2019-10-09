@@ -9,7 +9,7 @@ Put your name in the Team Section and comment
 Lawrence Chen added a comment here.
 
 ## This is Nishanth Shetty 
-### Life is all about exploring challenges!
+Life is all about exploring challenges!
 
 This is Mengxuan Sun
 
