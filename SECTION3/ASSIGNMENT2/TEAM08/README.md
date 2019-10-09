@@ -7,6 +7,7 @@ Put your name in the Team Section and comment
 ## Team
 
 Jeremy Tran
+Xinyi Lu
 Cindy Zheng
 
 
