@@ -6,11 +6,9 @@ Put your name in the Team Section and comment
 
 ## Team
 Samuel Aycock
-- Tiffany Hsu
 - Charles Qian
 
 ## Comments
-- Tiffany's comment lol
 - I'm a photographer
 
 ## Comments
