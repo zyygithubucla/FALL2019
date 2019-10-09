@@ -1,7 +1,7 @@
 ---
 title: Generate Reproducible & Live HTML and PDF Conference Posters Using RMarkdown
 author:
-  - name: Team Member1
+  - name: Nishanth Shetty
     affil: 1
   - name: Team Member2
     affil: 1
